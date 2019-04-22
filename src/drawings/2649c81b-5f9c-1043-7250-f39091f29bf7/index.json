@@ -1,0 +1,743 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 602.8250007629395,
+          "y": 18.390625
+        },
+        "size": {
+          "width": 28.34644317626953,
+          "height": 28.34644317626953
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id1a529e55-3994-de9b-2740-0bddfe3715b0\" data-value=\"b795daba-1c29-2a6a-5c0a-eb727015eaff\" data-role=\"tag\">feature file validation tool</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "65f547b3-0116-4507-b6d6-6aee385ede9a",
+        "z": 1,
+        "objectID": "21542194-1897-077f-9e2f-df0bbf1848aa",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 90,
+          "y": 120
+        },
+        "size": {
+          "width": 180,
+          "height": 210
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id263691de-769b-ca42-127a-8e30f771310b\" data-value=\"59723fb7-91bf-3e8e-2cd6-50789fb22025\" data-role=\"tag\">retrieval engine</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 90
+        },
+        "id": "c5ee0f06-4afa-40a3-bd94-b3bf73c54f93",
+        "z": 2,
+        "objectID": "d25c7eb2-b920-3ea0-e979-a6446b2f78de",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 120,
+          "y": 195.00000000000006
+        },
+        "size": {
+          "width": 120,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"ide065fd90-e44d-74de-7813-517fe9278ad0\" data-value=\"b8b5c448-c9d6-877d-216b-58c3fa7bbe3c\" data-role=\"tag\">request</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60,
+          "leadLineLength": 8
+        },
+        "id": "1438bc15-da45-4e2f-9a59-ae2c97ba6e4f",
+        "z": 3,
+        "objectID": "bc51fda1-a79a-a43e-f0d0-085b944fae18",
+        "number": 16
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 631.171443939209,
+          "y": 119
+        },
+        "size": {
+          "width": 181,
+          "height": 212
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"ida375bc65-29d9-83bb-9a7d-cd303a307daf\" data-value=\"7809f733-c432-6df0-c103-1bcc8575b2e7\" data-role=\"tag\">validation engine</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 90
+        },
+        "id": "ec3b7b56-2e93-5a93-9ae8-d4501888777e",
+        "z": 3,
+        "objectID": "db06adb4-8bb0-6892-1f01-d2b6973a90eb",
+        "number": 6
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id70716393-ae9b-b494-651e-f816c211b9c1\" data-value=\"13ebd9ca-5176-3d4a-bc07-335aa509fadc\" data-role=\"tag\">test case file(s)</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 120,
+          "y": 265.00000000000006
+        },
+        "size": {
+          "width": 120,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"ida3fe649f-8b42-ffef-49da-fb8e6f14448d\" data-value=\"7f4467d3-f4cd-89a7-46ac-04531332cae5\" data-role=\"tag\">test case file</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60,
+          "leadLineLength": 8
+        },
+        "id": "85cb20c7-106c-fc3b-4ef2-f958673b4508",
+        "z": 4,
+        "objectID": "f28f5871-7d21-3d5a-1ddb-73421c577b5d",
+        "number": 24
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 195,
+          "y": 405
+        },
+        "size": {
+          "width": 181,
+          "height": 212
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"ide4e00f2f-5ced-1e70-5376-9605f0c633e8\" data-value=\"4e9f27f0-87ba-4553-86c0-2b71f42f73a7\" data-role=\"tag\">transformation engine</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 90,
+          "leadLineLength": 34
+        },
+        "id": "b2c5192c-a72d-88fd-5322-6ced872c78a3",
+        "z": 4,
+        "objectID": "4bef409d-e46a-5bd4-6855-98e366b45872",
+        "number": 8
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 314.99999999999943,
+          "y": 75.00000000000037
+        },
+        "size": {
+          "width": 270,
+          "height": 270
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idef6d7430-8ed7-fe8f-7ef4-bdfbbb384205\" data-value=\"0d3a7482-59e6-e678-2cc7-5fec71956c8a\" data-role=\"tag\">configuration engine</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60
+        },
+        "id": "eaf21003-87c0-4f5d-8dfd-7f3b3c33b3de",
+        "z": 5,
+        "objectID": "8bca8ddc-b6ea-5e56-e9ff-00bb741a3890",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id79453c7e-7d6a-c661-4169-2f65f674c96d\" data-value=\"d6575a6f-3298-5e9e-c0f4-a21b61bab6fa\" data-role=\"tag\">field name(s)</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 354.99505681645644,
+          "y": 134.99999999999983
+        },
+        "size": {
+          "width": 190.00988636708598,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id56a23adf-daed-cfb4-7b07-97c376d0afd4\" data-value=\"cad56457-20c3-22f9-2265-3964f3a6a049\" data-role=\"tag\">field names</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60,
+          "leadLineLength": 8
+        },
+        "id": "752c9a8e-a684-55e8-a6b8-19178a1ae64e",
+        "z": 5,
+        "objectID": "d0b92968-fbd8-84ab-0a34-8fc21f5a294d",
+        "number": 18
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 661.671443939209,
+          "y": 209.99999999999994
+        },
+        "size": {
+          "width": 120,
+          "height": 30.000000000000085
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"ida481667e-52e0-e802-6e97-bbe8610e5bdd\" data-value=\"20d167d2-29fe-59c2-c123-e6499e3559c0\" data-role=\"tag\">validation</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60,
+          "leadLineLength": 8
+        },
+        "id": "a3348bd4-22de-ff49-de64-f6424823d3a5",
+        "z": 5,
+        "objectID": "4a51525c-95c0-9c12-a093-df241aeb238f",
+        "number": 26
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 526.9982223510742,
+          "y": 406
+        },
+        "size": {
+          "width": 180,
+          "height": 210
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id13f34afa-90f2-4c0e-b372-9b9cc3869caf\" data-value=\"958f007a-844b-c359-e075-a69d655b11da\" data-role=\"tag\">synchronization engine</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 90,
+          "leadLineLength": 34
+        },
+        "id": "6debaf25-80a0-7a43-e01c-86b440c25a94",
+        "z": 5,
+        "objectID": "e5759b3d-dafe-6718-4e32-8539b818a7e2",
+        "number": 10
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"idbe7aef5b-fd98-eb78-3f24-ab978a44ad7a\" data-value=\"acb7ec11-a382-1142-2387-19668c97636f\" data-role=\"tag\">field value(s)</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 354.99505681645644,
+          "y": 194.99999999999983
+        },
+        "size": {
+          "width": 190.00988636708598,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id6eab85e6-a658-facb-6fed-e3dfd523d0dc\" data-value=\"c7d0f51d-853f-a20e-e5eb-2139272cb32c\" data-role=\"tag\">field values</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60,
+          "leadLineLength": 8
+        },
+        "id": "01d5282d-e269-80f5-260a-a55b1d973f7b",
+        "z": 6,
+        "objectID": "2f16430b-850a-239f-6d83-33ce4d347b99",
+        "number": 20
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 354.99505681645644,
+          "y": 256.2487642041143
+        },
+        "size": {
+          "width": 190.00988636708595,
+          "height": 47.50247159177149
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"ida0b20a70-43aa-5986-c3b6-5b1efc8b411f\" data-value=\"c73efe42-8572-352f-5f81-95fc85da7c84\" data-role=\"tag\">first test case details file</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60,
+          "leadLineLength": 8
+        },
+        "id": "85e35507-de7a-b568-33ef-606a4b12dfc7",
+        "z": 7,
+        "objectID": "44d15349-f1fb-5e6a-597a-2fcd719f3a2a",
+        "number": 22
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "c5ee0f06-4afa-40a3-bd94-b3bf73c54f93",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "48%",
+              "dy": "52%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "eaf21003-87c0-4f5d-8dfd-7f3b3c33b3de",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "50%",
+              "dy": "57%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "d981ce1c-f620-4da0-9fbd-23f1d390f852",
+        "z": 8,
+        "objectID": "12e90a70-9101-12a3-48ac-37b9b1ea0353",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "eaf21003-87c0-4f5d-8dfd-7f3b3c33b3de",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "48%",
+              "dy": "55%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "ec3b7b56-2e93-5a93-9ae8-d4501888777e"
+        },
+        "id": "f06288b4-a225-4ac7-95c1-30e367560390",
+        "z": 9,
+        "objectID": "9e77f1aa-2be8-f89e-4a7e-a24f90ea5fc4",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 225,
+          "y": 465
+        },
+        "size": {
+          "width": 129.99505681645644,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idae133d16-b0e3-c752-642b-49a02f88f37e\" data-value=\"f9ef2bfd-de9e-9b13-6cba-12db3e16591e\" data-role=\"tag\">transformation</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60,
+          "leadLineLength": 11
+        },
+        "id": "91bb1f05-a69f-4aaa-a595-5182cd5eef6e",
+        "z": 10,
+        "objectID": "691ad70a-d257-e8f6-33e7-fcdbc30d2d75",
+        "number": 28
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 225,
+          "y": 525
+        },
+        "size": {
+          "width": 129.99505681645644,
+          "height": 75
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idae1af6f2-9f1b-a093-fe5a-918453c7c729\" data-value=\"4490de22-3217-d6b4-8f4c-22982c4f4a79\" data-role=\"tag\">second test case details file</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60,
+          "leadLineLength": 11
+        },
+        "id": "f4ddc910-6e65-5e96-b5cd-6c11e3b273f3",
+        "z": 11,
+        "objectID": "05a96acc-dd9b-859d-d586-b29fb60d9bc1",
+        "number": 30
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id34db82ad-5be2-bd60-1f86-ba3cab4281b2\" data-value=\"474bfda3-324f-e47b-7c08-bf0d3605a013\" data-role=\"tag\">test ID(s)</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 556.9982223510742,
+          "y": 480.4472937990804
+        },
+        "size": {
+          "width": 120,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idd083e4c3-5197-5d35-9e2c-e3b68ac8c430\" data-value=\"a100d8cc-7b02-cbc2-7389-bf4e8905b8ef\" data-role=\"tag\">test ID</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60,
+          "leadLineLength": 11
+        },
+        "id": "3d1c9b0c-7415-2c9a-c540-97bf343d68d7",
+        "z": 11,
+        "objectID": "a48b1bc4-2410-ed2d-902a-75a7e6e973b6",
+        "number": 32
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "eaf21003-87c0-4f5d-8dfd-7f3b3c33b3de",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "12%",
+              "dy": "51%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "b2c5192c-a72d-88fd-5322-6ced872c78a3",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "84%",
+              "dy": "64%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "1406b9c3-2c8a-4fac-bc2d-b4fbecf2b5a2",
+        "z": 12,
+        "objectID": "123744e3-bc6d-4633-0fdb-56cde00557b4",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 549.4982223510742,
+          "y": 547.5
+        },
+        "size": {
+          "width": 135,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id39827776-facc-db46-576f-d317fbaf2afc\" data-value=\"2f5f7c94-19bc-949c-5c15-467348228e26\" data-role=\"tag\">synchronization</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60,
+          "leadLineLength": 11
+        },
+        "id": "69a66ef7-1b76-3558-4f8c-6f3a06168304",
+        "z": 12,
+        "objectID": "2cdd97f0-1735-ef11-84de-91108da36e2e",
+        "number": 34
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "eaf21003-87c0-4f5d-8dfd-7f3b3c33b3de",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "85%",
+              "dy": "57%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "6debaf25-80a0-7a43-e01c-86b440c25a94",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "10%",
+              "dy": "57%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "fb14261c-1d2b-450e-adfe-507ad618c5e1",
+        "z": 13,
+        "objectID": "647f033f-4132-de78-cfbe-70a496ea14fb",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "b2c5192c-a72d-88fd-5322-6ced872c78a3"
+        },
+        "target": {
+          "id": "6debaf25-80a0-7a43-e01c-86b440c25a94"
+        },
+        "id": "fb09cee0-ab52-4e01-9e83-1457acf95205",
+        "z": 14,
+        "objectID": "7e8b55de-4099-3e87-048f-075f92a497e1",
+        "label": " ",
+        "name": " "
+      }
+    ],
+    "tpVersion": 2
+  }
+}
